@@ -9,6 +9,9 @@
 * Remove gcc -funsigned-char, make ScriptDecoder.cpp more portable, see ChineseDecoder::isChinese  
 * How to change font size like Onscripter Plus Android version   
 
+## Preparation for building in Xubuntu 20.04  
+* sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl-gfx1.2-dev liblua5.1-0-dev libbz2-dev libfontconfig1-dev libavifile-0.7-dev libsmpeg-dev
+
 ## Weibo record  
 ```
 我把onscripter-plus的源代码单独抽出来魔改，
