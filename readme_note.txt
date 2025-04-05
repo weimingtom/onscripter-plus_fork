@@ -1,0 +1,20 @@
+test install onscripter-plus apk
+
+ENABLE_ENGLISH
+ENABLE_KOREAN
+ENABLE_CHINESE
+ANDROID
+
+setFontParametersForScaling
+setSentenceFontParamters
+
+USE_LUA
+
+FORCE_1BYTE_CHAR
+ENABLE_1BYTE_CHAR 
+FORCE_1BYTE_CHAR
+
+USE_AVIFILE
+USE_SMPEG
+USE_SDL_RENDERER
+
